@@ -1,8 +1,9 @@
 package com.example.demo1;
 
 public class cat {
-    public String name;
+    //public String name;
     public int age;
+
 
     public cat(String name, int age) {
         this.name = name;
